@@ -6,3 +6,4 @@
 
 Thanks for checking out this front-end coding challenge.
 
+Siteyi buradan görebilirsiniz: https://metinyegencik.github.io/fylo-landing-page-with-two-column-layout-master/
